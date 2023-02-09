@@ -1,0 +1,24 @@
+{
+  "name": "nestech-btvn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannguyen64/nestech-btvn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuannguyen64/nestech-btvn/issues"
+  },
+  "homepage": "https://github.com/tuannguyen64/nestech-btvn#readme",
+  "dependencies": {
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}
